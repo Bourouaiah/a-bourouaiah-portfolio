@@ -723,7 +723,7 @@ main {
 
 .clients-list {
   display: flex;
-  justify-content: center;
+  justify-content: flex-start;
   align-items: center;
   gap: 20px;
   margin: 0 -15px;
@@ -1247,7 +1247,9 @@ textarea.form-input::-webkit-resizer { display: none; }
 
 
 
-
+.avatar-box img {
+  width: 80px;
+}
 
 /**
  * responsive larger than 580px screen

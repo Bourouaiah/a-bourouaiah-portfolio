@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="http://yourportfolio.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=1000&pause=1000&color=F70000&center=true&width=435&lines=Front-End+Developer;React+%7C+Firebase+%7C+Tailwind+CSS;Building+Modern+Web+Apps" /></a>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=1000&pause=1000&color=F70000&center=true&width=435&lines=Front-End+Developer;ReactJs+%7C+NextJs;Building+Modern+Web+Apps" /></a>
 </p>
 
 <!-- Social icons section -->
@@ -26,7 +26,7 @@
 
 - 💬 Ask me about **React, React Native, Firebase, Tailwind CSS, Redux**
 
-- 📫 How to reach me: **your-email@example.com**
+- 📫 How to reach me: **abdourh26@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
